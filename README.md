@@ -26,8 +26,10 @@ To take measurements, the pipeline automatically operates the Ximea CamTool, to 
 
 The code is structured with two python files and two operational notebook files which are split into non diluting and diluting chip approaches.
 
-For the 2pump_control.py program, Mixer V27 in the manuscript was used
-For the 4pump_control.py program, Mixer V28 in the manuscript was used
+For the 2pump_control.py program, Mixer V27 in the manuscript was used.
+For the 4pump_control.py program, Mixer V28 in the manuscript was used.
+
+The .ipynb files are meant to explain and showcase the features of the respective .py files.
 
 Authors 
 - Code & Chip Design - Ignacy Bartnik 
