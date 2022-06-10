@@ -30,7 +30,7 @@ For the 2pump_control.py program, Mixer V27 in the manuscript was used
 For the 4pump_control.py program, Mixer V28 in the manuscript was used
 
 Authors 
-- Code - Ignacy Bartnik 
+- Code & Chip Design - Ignacy Bartnik 
 - Experimental design - Robert Strutt
 - Project supervision - Nick Brooks and Robet Strutt
 
